@@ -1,0 +1,1 @@
+{ "root": "Fresh Sarura_UI_v.1", "buildCommand": "npm run build", "outputDirectory": "Fresh Sarura_UI_v.1/dist", "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }] }

@@ -1,0 +1,12 @@
+            {/* Create Shipment Drawer */}
+            <CreateShipmentForm
+              isOpen={isShipmentOpen}
+              onClose={() => setIsShipmentOpen(false)}
+              onSubmit={handleShipmentSubmit}
+            />
+
+            {/* Find Batch Drawer */}
+            <FindBatchDrawer
+              isOpen={isTraceabilityOpen}
+              onClose={() => setIsTraceabilityOpen(false)}
+            />

@@ -1,0 +1,15 @@
+
+> vite-react-typescript-starter@0.0.0 typecheck
+> tsc --noEmit -p tsconfig.app.json
+
+src/portals/production-manager/components/StandardsLibraryModal.tsx(62,12): error TS1003: Identifier expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(62,21): error TS1005: '{' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(62,28): error TS1005: ':' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(62,32): error TS1005: ',' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(64,15): error TS1005: ':' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(70,10): error TS1005: ',' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(72,15): error TS1005: ':' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(75,10): error TS1005: ',' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(77,16): error TS1005: ':' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(201,10): error TS1005: ',' expected.
+src/portals/production-manager/components/StandardsLibraryModal.tsx(205,1): error TS1005: '}' expected.
